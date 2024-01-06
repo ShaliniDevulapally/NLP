@@ -1,2 +1,2 @@
 # NLP
-This repository showcases my NLP work
+This repository showcases my NLP work.
